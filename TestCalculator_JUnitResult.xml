@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="junit.TestCalculator" tests="5" failures="0" errors="0" skipped="0" time="0.049">
+    <testcase name="testDivideByZero" time="0.008"/>
+    <testcase name="testAdd" time="0"/>
+    <testcase name="testSubtract" time="0.001"/>
+    <testcase name="testDivide" time="0"/>
+    <testcase name="testMultiply" time="0"/>
+  </testsuite>
+</testsuites>
